@@ -1,0 +1,12 @@
+// memory data file (do not edit the following line - required for mem load use)
+// instance=/processor/InstructionCahce/memory_array
+// format=mti addressradix=d dataradix=s version=1.0 wordsperline=1
+0: 0000000000000000
+1: 0000000000000100
+4: 1000000001011010
+5: 0000000000011110
+6: 0110100100100010
+7: 0111011011010010
+8: 0110100100100010
+9: 1000011010001100
+10: 0000000000000001
