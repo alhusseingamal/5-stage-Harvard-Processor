@@ -1,8 +1,8 @@
 # Five-Stage, Harvard Architecture, RISC-ISA Processor  
 
-![Processor GIF](https://github.com/alhusseingamal/5-stage-Harvard-Processor/blob/main/media/Processor.gif)  
+<div align="center"><img src="https://github.com/alhusseingamal/5-stage-Harvard-Processor/blob/main/media/Processor.gif" alt="Processor GIF"></img></div>
 
-This project implements a five-stage, pipelined, Harvard processor with a RISC ISA in VHDL. The code structure is self-documenting, easy to follow, and prioritizes clarity, maintainability and extensibility.  
+This project implements a five-stage, pipelined, Harvard processor with a RISC ISA in VHDL. The code structure is self-documenting, easy to follow, and prioritizes clarity, maintainability and extensibility. Each submodule in the Processor is self-contained. This makes modifications easier and within a limited scope.  
 
 ## Processor Design
 ![Processor Design Diagram](https://github.com/alhusseingamal/5-stage-Harvard-Processor/blob/main/media/Processor.png)  
@@ -81,3 +81,12 @@ A port to which data can be written through I/O operations.
 
 ### Output Port
 A port through data can be read through I/O operations.  
+
+
+### More
+#### I used the following textbook throughout the project to learn more about processor design:  
+Computer Organization and Design - Fifth Edition - David A. Patterson & John L. Hennessy
+
+#### Find the project Requriement [here](https://github.com/alhusseingamal/5-stage-Harvard-Processor/blob/main/Project%20CMP301%20Spring24.pdf)
+
+#### Find the ISA design and control signals [here](https://docs.google.com/spreadsheets/d/1zjyA8mo_xPZetTjjhiIkFmT95-MTbjqX930M286H9xo/edit?gid=0#gid=0) or [here](https://github.com/alhusseingamal/5-stage-Harvard-Processor/blob/main/Harvard%20Processor-%20Instructions%20Design.xlsx)
