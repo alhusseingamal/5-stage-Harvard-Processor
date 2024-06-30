@@ -1,4 +1,4 @@
-# Five-Stage, Harvard Architecture, RISC-ISA Processor  
+# Pipelined, Five-Stage, Harvard Architecture, RISC-ISA Processor  
 
 <div align="center"><img src="https://github.com/alhusseingamal/5-stage-Harvard-Processor/blob/main/media/Processor.gif" alt="Processor GIF"></img></div>
 
